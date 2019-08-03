@@ -14,6 +14,15 @@
     "type": "git",
     "url": "git+https://github.com/labtocat/intl-phone-directory.git"
   },
+  "lint-staged": {
+    "*.{ts,tsx}": "tslint -c tslint.json"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm test",
+      "pre-push": "npm test"
+    }
+  },
   "keywords": [
     "intl-phone",
     "phone-number-validation",
