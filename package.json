@@ -1,12 +1,14 @@
 {
   "name": "intl-phone-directory",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "International Phone Directory, which contains info about country code, validation etc..",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
+    "lint": "tslint -p tsconfig.json",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -24,7 +26,10 @@
   },
   "homepage": "https://github.com/labtocat/intl-phone-directory#readme",
   "devDependencies": {
+    "@types/jest": "^24.0.16",
+    "jest": "^24.8.0",
     "prettier": "^1.18.2",
+    "ts-jest": "^24.0.2",
     "tslint": "^5.18.0",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^3.5.3"
