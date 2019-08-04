@@ -12,6 +12,7 @@
   </a>
 </p>
 
+> ⚠️ INFO; Package is still under construction.
 > Simple library that helps in identifing, validating and more for a given number
 
 ### 🏠 [Homepage](https://github.com/labtocat/intl-phone-directory#readme)
