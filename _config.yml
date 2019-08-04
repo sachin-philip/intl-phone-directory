@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+
+name: Intl Phone Directory
+description: Simple library that helps in identifing, validating and more for a given number 
+
+avatar: http://labtocat.github.io/intl-phone-directory/docs/contacts-book.png
+title-img: http://labtocat.github.io/intl-phone-directory/docs/contacts-book.png
+logo : http://labtocat.github.io/intl-phone-directory/docs/contacts-book.png
