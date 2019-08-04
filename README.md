@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to intl-phone-directory 👋</h1>
+<h1>Welcome to intl-phone-directory ☎️</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/npm/v/intl-phone-directory.svg">
   <a href="https://github.com/labtocat/intl-phone-directory#readme">
