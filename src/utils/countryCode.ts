@@ -67,7 +67,8 @@ export const countryCode = [
     {  
        "name":"Austria",
        "dialCode":"43",
-       "code":"AT"
+       "code":"AT",
+       "regex": "^(AT)?U[0-9]{8}$"
     },
     {  
        "name":"Azerbaijan",
@@ -102,12 +103,13 @@ export const countryCode = [
     {  
        "name":"Belgium",
        "dialCode":"32",
-       "code":"BE"
+       "code":"BE",
+       "regex": "^(BE)?0[0-9]{9}$"
     },
     {  
        "name":"Belize",
        "dialCode":"501",
-       "code":"BZ"
+       "code":"BZ",
     },
     {  
        "name":"Benin",

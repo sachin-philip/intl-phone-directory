@@ -1,4 +1,4 @@
-<h1>Welcome to intl-phone-directory ☎️</h1>
+<h1>Intl Phone Directory ☎️</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/npm/v/intl-phone-directory.svg">
   <a href="https://github.com/labtocat/intl-phone-directory#readme">
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> International Phone Directory, which contains info about country code, validation etc..
+> Simple library that helps in identifing, validating and more for a given number
 
 ### 🏠 [Homepage](https://github.com/labtocat/intl-phone-directory#readme)
 
