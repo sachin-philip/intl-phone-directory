@@ -39,6 +39,7 @@ import * as getTelephoneInfo from 'intl-phone-directory';
 
 getTelephoneInfo('Vietnam') //{"code": "VN", "dialCode": "84", "name": "Vietnam"}
 
+
 ```
 
 ## Run tests
